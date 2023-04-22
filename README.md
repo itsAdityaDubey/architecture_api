@@ -1,2 +1,2 @@
-# stplayer API
-CRUD API for stPlayer DB
+#  API
+CRUD API for  DB
